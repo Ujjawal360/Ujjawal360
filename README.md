@@ -19,7 +19,7 @@ I am a Freshman at Howard University & a data science enthusiast. I look forward
 ### Deployed an official python package on pypi.org
 * <b>samparka</b><br>
 ```
-!pip install samparka==0.0.2
+!pip install samparka
 ```
 ```
 import samparka
@@ -31,8 +31,8 @@ phone_numbers = homepage.phonenumbers('USA')
 print(f'emails: {email_adresses}')
 print(f'\nphone_numbers: {phone_numbers}')
 ```
+<img width="1008" alt="Screen Shot 2022-09-17 at 10 17 45 PM" src="https://user-images.githubusercontent.com/80565061/190882735-04b690cb-9cf5-4c0e-a129-97bd56218a26.png">
 
-<img width="1215" alt="Screen Shot 2022-09-17 at 8 57 11 PM" src="https://user-images.githubusercontent.com/80565061/190881071-63876652-7a1b-4235-bcb7-e49950b7ba3e.png">
 
 ### AWS Computing Badge
 - AWS Educate Introduction to Cloud 101 Issued by Amazon Web Services Training and Certification
