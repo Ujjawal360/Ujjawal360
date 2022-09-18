@@ -25,3 +25,4 @@ I am a Freshman at Howard University & a data science enthusiast. I look forward
 
 ### AWS Computing Badge
 ![aws](https://user-images.githubusercontent.com/80565061/190880660-0cad68a2-c5a8-436c-ae64-145339afac6e.png)
+AWS Educate Introduction to Cloud 101 Issued by Amazon Web Services Training and Certification
