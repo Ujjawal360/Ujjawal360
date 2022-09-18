@@ -21,7 +21,24 @@ I am a Freshman at Howard University & a data science enthusiast. I look forward
 ```
 !pip install samparka==0.0.2
 ```
-<img width="1215" alt="Screen Shot 2022-09-17 at 8 21 09 PM" src="https://user-images.githubusercontent.com/80565061/190880590-f3f601cb-dafa-4deb-bcf3-5d2478e73c22.png">
+```
+import samparka
+
+homepage = samparka.Scrollhomepage('https://howard.edu/')
+email_adresses = homepage.emails()
+phone_numbers = homepage.phonenumbers('USA')
+
+print(f'emails: {email_adresses}')
+print(f'\nphone_numbers: {phone_numbers}')
+```
+
+<img width="1215" alt="Screen Shot 2022-09-17 at 8 57 11 PM" src="https://user-images.githubusercontent.com/80565061/190881071-63876652-7a1b-4235-bcb7-e49950b7ba3e.png">
 
 ### AWS Computing Badge
 ![aws](https://user-images.githubusercontent.com/80565061/190880660-0cad68a2-c5a8-436c-ae64-145339afac6e.png)
+
+AWS Educate Introduction to Cloud 101 Issued by Amazon Web Services Training and Certification
+
+### Research analysis on global alcohol consumption against the GDP of the nations
+
+![PHT5-COMBINEDALL (1)](https://user-images.githubusercontent.com/80565061/190881216-c0560095-5616-4c0c-800a-358c0a7fb175.png)
