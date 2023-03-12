@@ -1,6 +1,6 @@
 ### Hey👋,  I am Ujjawal Shah 👨🏽‍💻📊
 
-I am a Freshman at Howard University & a data science enthusiast. I look forward to diversifying my knowledge for well-prepared professional engagements foresee myself applying my skills, gained from personal and group projects to real-life problems, and would grab opportunities that would contribute to the pursuit of my professional development and training. I love doing <b>Data Science</b>, <b>Cloud Computing(AWS)</b>, <b>Automation(Selenium)</b>, <b>Web Scraping</b> and a bit of <b>wordpress</b>.
+I am a Freshman at Howard University & a data science enthusiast. I look forward to diversifying my knowledge for well-prepared professional engagements foresee myself applying my skills, gained from personal and group projects to real-life problems, and would grab opportunities that would contribute to the pursuit of my professional development and training. I love doing <b>Data Science</b>, <b>Machine Learning</b>, <b>Cloud Computing(AWS)</b>, <b>Automation(Selenium)</b>, <b>Web Scraping</b> and a bit of <b>wordpress</b>.
 
 * <b>I write about my projects and tech blogs at Medium: </b>
 <br>[Medium - @ujjawalshah1080](https://medium.com/@ujjawalshah1080)
